@@ -30,7 +30,16 @@
 }
 
 #container-3 {
-    background: transparent !important;
+    background: #141926 !important;
+}
+
+.gowebcam:enabled {
+    padding: 5px 10px !important;
+    border: 3px solid #3C3 !important;
+}
+
+#previewWebcam {
+    border-radius: 10px;
 }
 /* ---- End STV Additions ---- */
 
