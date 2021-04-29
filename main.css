@@ -50,6 +50,10 @@
     display: none !important;
 }
 
+.column {
+    min-width: initial !important;
+}
+
 #chatbutton {
     display: none !important;
 }
