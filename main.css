@@ -19,11 +19,11 @@
 
 /* ---- STV Additions ---- */
 #add_camera {
-    display: none;
+    display: none !important;
 }
 
 #audioMenu, #headphonesDiv, #SafariWarning {
-    display: none;
+    display: none !important;
 }
 /* ---- End STV Additions ---- */
 
