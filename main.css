@@ -25,6 +25,13 @@
 #audioMenu, #headphonesDiv, #SafariWarning {
     display: none !important;
 }
+#translateButton {
+    display: none !important;
+}
+
+#container-3 {
+    background: transparent !important;
+}
 /* ---- End STV Additions ---- */
 
 table {
