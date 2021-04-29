@@ -41,6 +41,27 @@
 #previewWebcam {
     border-radius: 10px;
 }
+
+#reportbutton, #helpbutton, #mutespeakerbutton, #mutebutton, #hangupbutton {
+    display: none !important;
+}
+
+#chatbutton {
+    display: none !important;
+}
+
+.la-phone:before {
+    content: "x";
+}
+.la-phone {
+    transform: rotate(0deg) scale(1.2, 1) !important;
+    margin-top: 4px !important;
+    margin-left: 2px !important;
+}
+
+#controlButtons {
+    margin-bottom: 10px !important;
+}
 /* ---- End STV Additions ---- */
 
 table {
