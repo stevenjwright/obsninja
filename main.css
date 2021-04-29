@@ -1,5 +1,5 @@
 :root {
-	--background-color: #141926;
+	--background-color: transparent;
 	--container-color: #373737;
 	--button-color: #2A2A2A;
 	--blue-accent: #4a4c63;
@@ -30,7 +30,7 @@
 }
 
 #container-3 {
-    background: #141926 !important;
+    background: transparent !important;
 }
 
 .gowebcam:enabled {
@@ -61,6 +61,10 @@
 
 #controlButtons {
     margin-bottom: 10px !important;
+}
+
+#header {
+    display: none !important;
 }
 /* ---- End STV Additions ---- */
 
