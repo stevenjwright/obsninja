@@ -17,10 +17,15 @@
 	border: 0;
 }
 
-/* STV Additions */
+/* ---- STV Additions ---- */
 #add_camera {
     display: none;
 }
+
+#audioMenu, #headphonesDiv, #SafariWarning {
+    display: none;
+}
+/* ---- End STV Additions ---- */
 
 table {
 	display: inline-block;
