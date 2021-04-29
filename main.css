@@ -17,6 +17,10 @@
 	border: 0;
 }
 
+/* STV Additions */
+#add_camera {
+    display: none;
+}
 
 table {
 	display: inline-block;
@@ -765,7 +769,8 @@ body {
 .gowebcam:enabled {
 	background-color: #3C3 !important;
 	color: black;
-	font-weight: bold !important;;
+	font-weight: bold !important;
+    border-radius: 5px;
 }
 
 .mainmenuclass {
@@ -1318,7 +1323,7 @@ img {
 }
 .container-inner {
 	display: none;
-	background-color: rgb(221, 221, 221);
+	background-color: transparent;
 	max-height: 100%;
 	min-height: 90%;
 }
