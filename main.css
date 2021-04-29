@@ -33,6 +33,10 @@
     background: transparent !important;
 }
 
+#credits {
+    display: none !important;
+}
+
 .gowebcam:enabled {
     padding: 5px 10px !important;
     border: 3px solid #3C3 !important;
